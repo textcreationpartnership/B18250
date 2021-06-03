@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Quakers, viz., to Geo. Fox, Geo. Whitehead, Fra. Camfield, Stephen Crisp, and the rest of your preachers</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18250</idno><idno type="EEBO-CITATION">13672661_39492</idno>
+  <idno type="VID">39492</idno>
+  <idno type="EEBO-PROQUEST">2264213971</idno>
+  
+            <idno type="STC">Wing B5374aA</idno>
+            <idno type="STC">ESTC R3242</idno>
+            <idno type="OCLC">13672661</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39492)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 838:20 or 1755:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Quakers, viz., to Geo. Fox, Geo. Whitehead, Fra. Camfield, Stephen Crisp, and the rest of your preachers</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Norris and are to be sold by most booksellers in London,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 30, 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Francis Bugg.  Cf. Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Item at reel 838:20 incorrectly identified as Wing B5374.</note>
+                  <note>Reproductions of original in Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fox, George, 1624-1691. --  Constancy of the people call'd Quakers.</term>
+               <term type="personal_name">Whitehead, George, 1636?-1723 --  Early works to 1800.</term>
+               <term type="personal_name">Crisp, Stephen, 1628-1692 --  Early works to 1800.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:39492:1"/>
+            <head>A LETTER to the QUAKERS, viz. To <hi>Geo. Fox, Geo. Whitehead, Fra. Camfield, Stephen Crisp,</hi> and the rest of your <hi>Preachers.</hi>
+            </head>
+            <p>I Having lately seen a Printed Paper of yours, Entituled, <hi>The Constancy of the People call'd</hi> Quakers, <hi>&amp;c.</hi> Being a pretended Answer to the <hi>Looking-Glass for the People call'd</hi> Quakers, <hi>&amp;c.</hi> Which Book was only a Collection of your own Writings, shew<g ref="char:EOLhyphen"/>ing what you writ against the <hi>Papists</hi> when they were under, and how, on their behalf, when uppermost: Now had you been Men of Candor and Honesty, you would have acknowledged you had greatly erred in your writing for and against that People; but instead thereof, fall foul upon the Publisher of the said Book, calling him <hi>Fool, Knave, Shatter-headed,</hi> and the like Terms, your ancient and usual Method to your Opposers.</p>
+            <p>But laying aside your pretended evasive Answer, which indeed is no Answer at all; but is only to blind your Proselytes, and to make them believe as if you had always been a con<g ref="char:EOLhyphen"/>stant People. O you Hypocrites! Consider, have you been so constant as you would be thought to have been? Are you indeed so unchangeable as you pretend? If so; how comes it to pass that you so heartily and so zealously espoused <hi>the good Old Cause,</hi> and the Cause of your dear Friend <hi>O. C.</hi> and <hi>R. C?</hi> Advising them, their Officers and Army, how to proceed till they set up their Standard at the Gates of <hi>Rome:</hi> But when King <hi>Charles</hi> the Second came in, then you presently owned his Kingly Government; which was direct<g ref="char:EOLhyphen"/>ly contrary to what you had writ before. What Constancy was here? O you hypocri<g ref="char:EOLhyphen"/>tical, Time-serving Generation! Again, consider how frequently you writ to <hi>O. C.</hi> (your then Noble Champion,) animating and encouraging him and his Soldiers to sight <hi>the Lord's Battels?</hi> Saying to <hi>O. C. Thou shouldest have invited all Christians upon Earth that are against</hi> Popery, <hi>to come in and join with thee against Popery; for thou hast had Authority; stand to it, lose it not, nor abuse it, nor let any other take thy Crown. Let thy Soldiers go forth with a free willing heart, that thou maist rock Nations as a Cradle:</hi> And abundance more to the same purpose: But when K. <hi>Charles</hi> the Second came into Power again, you immedi<g ref="char:EOLhyphen"/>ately fawned, and flattered him with your expressions of <hi>Loyalty,</hi> owning his Power and Authority, against which you had more than sufficiently writ; and not only so, but then you began to write <hi>against all fighting,</hi> as if you had never been for it; and that it was <hi>against your Principle to fight, or make use of any carnal weapon,</hi> &amp;c. And then you branded the <hi>Presbyterians</hi> and others, with fighting Principles, to render them odious to the Go<g ref="char:EOLhyphen"/>vernment, and obnoxious to Sufferings: One Instance thereof, amongst many that might be given, I shall cite out of your Book, <hi>Plain and peaceable Advice to the</hi> Presbyterians, <hi>&amp;c.</hi> Which Title bore the Face and Countenance of a Lamb; but in the first Page your Wolvish Nature plainly appear'd; and the more, in that you printed it <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Noise of a <hi>Protestant Plot</hi> (presently after the Earl of <hi>Shafisbury</hi> (who had been you Friend,) was committed to the Tower,) and that which was more remarkable, was, your Pub<g ref="char:EOLhyphen"/>lishing it at such a Juncture when the <hi>Popish Plot</hi> (which you had so much cried out of, as well as others,) was endeavoured to be stifled, and to be turned upon the <hi>Protestants;</hi> and no doubt but you fear'd that some of your Friends had been but too busie in these Matters, and therefore thought it best to Print it then, (though it had been writ about two years before, as by the Date appears) well knowing it would gratifie the Government, to hear you reflect so upon the <hi>Presbyterians,</hi> as you did in <hi>pag.</hi> 1. <hi>That their Principle was to fight for Religion, and to promote their pretended Religion by the Power of the Sword, and that their Ministers always labour'd to persuade them to it, &amp;c.</hi> Which Language at such a Season, rendered you most perfidious Temporizers, and treacherous.</p>
+            <p>Again, How did you write against Popery in several Protestant Reigns? Saying, <hi>Though you pardon one another, yet will not I pardon any One of you, saith the Lord—And though they should promise Liberty of Conscience when in Power, none ought to believe them, since 'tis their sacred Maxim, Not to keep Faith with Heroticks—That the Papists were the Authors of a Sea of Blood, shed in</hi> England, France, Holland, Ireland, Spain, Italy, Savoy, Switzer<g ref="char:EOLhyphen"/>land, <hi>and</hi> Germany—<hi>Have in all Ages brought a Deluge of Blood upon the</hi> European <hi>World—Consider the incomparable, bloody Massacres of that sort of Men in several Reigns,</hi> &amp;c. I remember also your framing, and making a most severe Test against the Papists, calling to the then Parliament, to make <hi>the abuse of this Discrimination</hi> (by your new Test) <hi>very Penal;</hi> which plainly shews, that you were for <hi>Tests,</hi> for <hi>Penal Laws,</hi> and sufficiently against the Papists. See the First Column of the afore-mentioned <hi>Looking-Glass,</hi> &amp;c. But in K. <hi>James</hi> II. Reign, you printed, <hi>that GOD and</hi> Caesar (meaning your Popish King) <hi>were both of a Mind—That the Papists in</hi> England <hi>and</hi> Holland <hi>have been loyal—That the
+<pb n="2" facs="tcp:39492:2"/>Excluders</hi> (such as were against K. <hi>James) are almost every</hi> Sunday <hi>at their Parish-Churches; and if Three Quarters of them were to pray for their Lives, it may be they could better read their Clergy</hi> (meaning their Neck-Verse) <hi>than say their Prayers without the publick Liturgy— And that the Protestants began with Blood for mere Religion, and TAƲGHT the</hi> Romanists <hi>in suc<g ref="char:EOLhyphen"/>ceeding Times how to deal with them</hi>—And that <hi>the Test</hi> (which the Parliament made against the Papists, and which you had incited them to) in the Nature of it (then you could say) <hi>was unreasonable</hi>—And in your <hi>Reasons for repealing the Test,</hi> you say, <hi>the King de<g ref="char:EOLhyphen"/>sires it, the Papists crave it, and the Interest of the whole Nation requires it:</hi> With abundance more in favour of the Papists. See the Second Column of your <hi>Looking-Glass,</hi> &amp;c. Thus is your pretended Constancy manifest to be as unconstant as the Wind, unstable as the Wa<g ref="char:EOLhyphen"/>ters, and as changeable as the Moon. And now, O you Temporizers! Is this your Con<g ref="char:EOLhyphen"/>stancy? Is this your Unchangeableness you so much boast of? Blush, and be ashamed.</p>
+            <p>There is one Passage in your Paper, which you bring to justifie your Prayers for, and Addresses (which were no less than Six) to K. <hi>James;</hi> viz. <hi>Pray for all Men, for Kings, and all in Authority,</hi> &amp;c. Now if you would be constant to that Scripture you bring for Proof, as you would be thought to be; then why do you not pray for, and address your selves to K. <hi>William</hi> and Q. <hi>Mary,</hi> as heartily, and as publickly as you did to, and for K. <hi>James.</hi> And though you sufficiently slattered the former Powers; yet you gave none more flourishing Expressions than you did him; as <hi>brave King: God and</hi> Caesar <hi>are both of a Mind: Pray God bless the King, and his Royal Family:</hi> These, and many more were pub<g ref="char:EOLhyphen"/>lished through the Nations. But no Salutation, no Message, no Prayer for, nor Address to K. <hi>William</hi> and Q. <hi>Mary;</hi> as if you were struck mute at the loss of your <hi>brave Popish King,</hi> whom you flatteringly said, was of <hi>the same Mind with God.</hi> What can you say for your selves? Are you like those, 1 <hi>Sam.</hi> 10.27. <hi>viz. The Children of</hi> Belial, <hi>who said, How shall this Man save us? And they despised him, and they brought him no Presents;</hi> (no Prayers, no Addresses;) <hi>but the King held his Peace.</hi> O you unworthy, and ungrateful Persons! Hath not K. <hi>William</hi> granted you the Liberty of your Consciences, and confirmed it by a Law? What! Have you nothing to say for K. <hi>William?</hi> Nay you are so far from that, that you have acted quite contrary: For when this King appointed a Fast for the Prosperity of his Armies; then you not only preached against the <hi>Fast;</hi> but also to weaken the Hearts, and Hands of his Friends, you vehemently cried down all Wars and Fightings, and the like. Is your Zeal for the Protestant Cause, and Interest quite gone? Or is it gone to <hi>Rome?</hi> (Indeed you have, but too much of late, espoused the Romish Principles: <hi>viz. We must believe as the Church believes; That the Church cannot err; That she hath Power to bind, and to loose;</hi> and that <hi>it is abominable Pride not to submit to her Judgment,</hi> &amp;c.) You have had no less than two annual and general Meetings at <hi>London,</hi> since this King's Reign; but not the least acknowledgment of the special Favour shewed you by the King and Parliament: And though some of your People are heartily thankful; yet it appears, that you that are the Leaders, and the rest of your Preachers, are of another Mind. Had you been but as hearty, and as zealous for this Government, as in gratitude you should and ought to have been; then your People had not been so divided, and so confu<g ref="char:EOLhyphen"/>sed, touching the Protestant Interest, as now they are: The sad and evil Effects of which, must and will be laid at your Doors. Consider what is here said, Repent, and amend your ways, is the Advice and Council of Yours,</p>
+            <closer>
+               <signed>Phil. Anglus.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>IN your Answer to the <hi>Looking-Glass,</hi> &amp;c. <hi>p.</hi> 2. You say, <hi>If the Author thereof was questi<g ref="char:EOLhyphen"/>oned about the Books quoted, he would be hard put to it for Proof.</hi> In strictness of Law it might be so; for so it was in the Trial of <hi>John Lilburn</hi> at <hi>Guild-hall,</hi> — 49; and the Trial of the <hi>Bishops</hi> lately. Yet, thus much in Reply: That if you will own which of them are yours, and which are not; then the Publisher of the <hi>Looking-Glass,</hi> &amp;c. will come forth, and (before any indifferent Persons equally chosen,) prove those Books you shall deny, to be also yours; and upon their satisfaction, you shall own your selves, guilty as of Per<g ref="char:EOLhyphen"/>jury, as you have declared, <hi>That if your solemn</hi> Yea <hi>and</hi> Nay <hi>might be taken in lieu of an Oath, that your untruth or breach of word should be punishable as Perjury.</hi> Treatise of Oaths, <hi>pag.</hi> 166.</p>
+            <p>And as for the Columns you cavil at, as being misplaced; in the Manuscript the lesser Column was put on the right hand of every Page; but the Printer saying, when one of the Columns was so much lesser than the other, as that was, then it was usual to put it on the outside; and so it was Printed: However, seeing the Direction-word at the lower end of every Page, was a sufficient Guide to each Column; it was Baseness in <hi>Geo. White<g ref="char:EOLhyphen"/>head,</hi> (who is said to be the Pen-man of that Paper,) for such a Mistake, if it had been re<g ref="char:EOLhyphen"/>ally so, to call the Author <hi>Fool</hi> and <hi>Knave</hi> for so small a Matter.</p>
+            <trailer>THE END,</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> S. Norris, <hi>and are to be Sold by most</hi> Book-sellers <hi>in</hi> London, <hi>Aug.</hi> 30. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
